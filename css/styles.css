@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    font-size: 16px;
+}
+
+.bio{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.bio-content h1{
+    font-size: 40px;
+}
+
+.bio-content .summary{
+    margin-top: 20px;
+    text-align: justify;
+    max-width: 1300px;
+}
+
+.working-exp, .org-exp, .edu-exp{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.working-content, .org-content, .edu-content{
+    width: 1300px;
+}
+
+.working-content hr, .org-content hr, .edu-content hr{
+    margin-bottom: 10px;
+}
+
+.working-content ul, .org-content ul, .edu-content ul{
+    margin-left: 20px;
+}
+
+.date-exp{
+    font-weight: normal;
+    font-size: 16px;
+    float: right;
+}
+
+
