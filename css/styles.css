@@ -26,22 +26,22 @@ h3{
     max-width: 1300px;
 }
 
-.working-exp, .org-exp, .edu-exp{
+.working-exp, .org-exp, .edu-exp, .achievement-exp, .skills-exp{
     margin-top: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.working-content, .org-content, .edu-content{
+.working-content, .org-content, .edu-content, .achievement-content, .skills-content{
     width: 1300px;
 }
 
-.working-content hr, .org-content hr, .edu-content hr{
+.working-content hr, .org-content hr, .edu-content hr, .achievement-content hr, .skills-content hr{
     margin-bottom: 10px;
 }
 
-.working-content ul, .org-content ul, .edu-content ul{
+.working-content ul, .org-content ul, .edu-content ul, .achievement-content ul, .skills-content ul{
     margin-left: 20px;
 }
 
